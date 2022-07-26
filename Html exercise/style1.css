@@ -1,0 +1,13 @@
+* {
+	box-sizing:border-box;
+}
+
+.clm{
+float:left;
+width:20%;
+padding:3px;
+}
+
+.clm img{
+height:300px;
+}
